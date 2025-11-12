@@ -5,6 +5,7 @@ type MyFixture = {
   createdUser: any;
 };
 
+
 export const test = base.extend<MyFixture>({
   createdUser: async ({}, use: any) => {
     const body = authFixture.setPassword('password123')
