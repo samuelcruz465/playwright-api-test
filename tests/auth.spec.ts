@@ -69,4 +69,4 @@ test('Validar credencial válida', async ({ createdUser })=>{
 
   expect(createdUser).not.toBeNull()
 })
->>>>>>> 8686bd7 (criação novos cenários autenticação)
+
