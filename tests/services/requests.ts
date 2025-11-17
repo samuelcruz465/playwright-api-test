@@ -11,6 +11,10 @@ export class Requests {
             });
 
         return response;
+<<<<<<< HEAD
+=======
+        
+>>>>>>> 8686bd7 (criação novos cenários autenticação)
     }
 
 }
